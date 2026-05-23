@@ -25,7 +25,7 @@ As a Business Analyst at a multi-region retail company, the goal was to analyze 
 ## 🎬 Project Demo
 
 [![Watch the Project Walkthrough](https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge&logo=google-drive)]
-(https://drive.google.com/file/d/1fLobH8qLwbFO81Kp4vdha1VRxOxMBrtD/view?usp=sharing)
+
 ---
 
 ## 📁 Project Files
