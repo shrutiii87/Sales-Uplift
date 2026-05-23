@@ -206,8 +206,6 @@ A deep-dive page focused on customer value, product performance, and category tr
 ---
 
 **Most Valuable Customers (Horizontal Bar Chart):**
-- Y-axis: `CustomerID`
-- X-axis: `Total Sales`
 - Top 5: C8600, C7349, C6245, C9447, C2229
 
 **Top 5 Products (Bar Chart):**
