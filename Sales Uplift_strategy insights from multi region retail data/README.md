@@ -177,7 +177,11 @@ The landing page presents the project title with a clean, branded layout and nav
 
 The primary dashboard view with KPI cards, monthly trends, regional breakdown, and sales channel distribution.
 
-![Main Overview]()
+---
+
+<img width="900" height="500" alt="Main Overview" src="https://github.com/user-attachments/assets/a7002029-5ea7-4924-a54c-c478ff8c9658" />
+
+---
 
 **KPI Cards:**
 - **Total Sales** → `6.74M`
@@ -207,7 +211,11 @@ The primary dashboard view with KPI cards, monthly trends, regional breakdown, a
 
 A deep-dive page focused on customer value, product performance, and category trends.
 
-![Growth Focus Insights]()
+---
+
+<img width="900" height="500" alt="Growth focus insights" src="https://github.com/user-attachments/assets/84189b69-367c-40a0-b4d0-77e8c05a84e1" />
+
+---
 
 **Most Valuable Customers (Horizontal Bar Chart):**
 - Y-axis: `CustomerID`
@@ -231,7 +239,11 @@ A deep-dive page focused on customer value, product performance, and category tr
 
 A storytelling page that directly answers the manager's strategic questions using insight cards.
 
-![Report Answers]()
+---
+
+<img width="900" height="500" alt="Report Page" src="https://github.com/user-attachments/assets/ece3e0a7-adae-4ad3-90ea-e7c474e2b298" />
+
+---
 
 | Business Question | Key Insight |
 |-------------------|-------------|
