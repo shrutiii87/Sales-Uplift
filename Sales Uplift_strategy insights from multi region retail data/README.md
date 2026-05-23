@@ -169,7 +169,7 @@ The landing page presents the project title with a clean, branded layout and nav
 
 ---
 
-<img width="500" height="700" alt="Home page" src="https://github.com/user-attachments/assets/141f27f9-89f0-45ba-9485-791ddaa79718" />
+<img width="900" height="400" alt="Home page" src="https://github.com/user-attachments/assets/141f27f9-89f0-45ba-9485-791ddaa79718" />
 
 ---
 
