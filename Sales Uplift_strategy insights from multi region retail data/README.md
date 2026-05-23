@@ -167,7 +167,7 @@ ORDER BY PurchaseCount DESC;
 
 The landing page presents the project title with a clean, branded layout and navigation to the main dashboard views.
 
-![Home Page]([Dashboard%20Preview/Home_page.png](https://github.com/shrutiii87/Business-Case-Study/blob/main/Sales%20Uplift_strategy%20insights%20from%20multi%20region%20retail%20data/Dashboard%20Preview/Home%20page.png))
+![Home Page]((https://github.com/shrutiii87/Business-Case-Study/blob/main/Sales%20Uplift_strategy%20insights%20from%20multi%20region%20retail%20data/Dashboard%20Preview/Home%20page.png))
 
 ---
 
