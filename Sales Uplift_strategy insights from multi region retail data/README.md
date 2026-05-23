@@ -12,7 +12,7 @@ the goal was to analyze a large transaction dataset using SQL and Power BI. The 
 
 ## 🎬 Project Demo
 
-![Watch the Project Walkthrough](https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge&logo=google-drive)]
+[![Watch the Project Walkthrough](https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1Qo1jqOD5JDGqq9ahePXcBfXalsVuNupb/view?usp=sharing)
 
 ---
 
@@ -26,6 +26,7 @@ the goal was to analyze a large transaction dataset using SQL and Power BI. The 
 | 📁 `file used/` | Source CSV dataset (`RetailTransactions.csv`) |
 | 📁 `Dashboard Preview/` | Screenshots of all dashboard pages |
 | 📘 `README.md` | Project documentation |
+| 🎬 `video` | video explanation through video |
 
 ---
 
