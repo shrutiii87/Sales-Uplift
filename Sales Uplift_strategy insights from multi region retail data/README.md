@@ -6,7 +6,7 @@ An end-to-end **Business Analytics Project** combining SQL data analysis with an
 
 ## 🚀 Project Overview
 
-As a Business Analyst at a multi-region retail company, the goal was to analyze a large transaction dataset using SQL and Power BI. The dashboard empowers managers to explore sales trends, customer behavior, regional performance, and product strategy — all from a single interactive interface.
+the goal was to analyze a large transaction dataset using SQL and Power BI. The dashboard empowers managers to explore sales trends, customer behavior, regional performance, and product strategy — all from a single interactive interface.
 
 ---
 
