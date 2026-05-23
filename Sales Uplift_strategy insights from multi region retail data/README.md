@@ -167,7 +167,9 @@ ORDER BY PurchaseCount DESC;
 
 The landing page presents the project title with a clean, branded layout and navigation to the main dashboard views.
 
-![Home Page]((https://github.com/shrutiii87/Business-Case-Study/blob/main/Sales%20Uplift_strategy%20insights%20from%20multi%20region%20retail%20data/Dashboard%20Preview/Home%20page.png))
+---
+
+<img width="500" height="700" alt="Home page" src="https://github.com/user-attachments/assets/141f27f9-89f0-45ba-9485-791ddaa79718" />
 
 ---
 
@@ -175,7 +177,7 @@ The landing page presents the project title with a clean, branded layout and nav
 
 The primary dashboard view with KPI cards, monthly trends, regional breakdown, and sales channel distribution.
 
-![Main Overview]([Dashboard%20Preview/Main_Overview.png](https://github.com/shrutiii87/Business-Case-Study/blob/main/Sales%20Uplift_strategy%20insights%20from%20multi%20region%20retail%20data/Dashboard%20Preview/Main%20Overview.png))
+![Main Overview]()
 
 **KPI Cards:**
 - **Total Sales** → `6.74M`
@@ -205,7 +207,7 @@ The primary dashboard view with KPI cards, monthly trends, regional breakdown, a
 
 A deep-dive page focused on customer value, product performance, and category trends.
 
-![Growth Focus Insights]([Dashboard%20Preview/Growth_focus_insights.png](https://github.com/shrutiii87/Business-Case-Study/blob/main/Sales%20Uplift_strategy%20insights%20from%20multi%20region%20retail%20data/Dashboard%20Preview/Growth%20focus%20insights.png))
+![Growth Focus Insights]()
 
 **Most Valuable Customers (Horizontal Bar Chart):**
 - Y-axis: `CustomerID`
@@ -229,7 +231,7 @@ A deep-dive page focused on customer value, product performance, and category tr
 
 A storytelling page that directly answers the manager's strategic questions using insight cards.
 
-![Report Answers]([Dashboard%20Preview/Report_Page.png](https://github.com/shrutiii87/Business-Case-Study/blob/main/Sales%20Uplift_strategy%20insights%20from%20multi%20region%20retail%20data/Dashboard%20Preview/Report%20Page.png))
+![Report Answers]()
 
 | Business Question | Key Insight |
 |-------------------|-------------|
