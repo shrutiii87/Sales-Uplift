@@ -293,7 +293,7 @@ A storytelling page that directly answers the manager's strategic questions usin
 
 | File | Description |
 |------|-------------|
-| 📝 `Queries.txt` | SQL script with all 7 required queries |
+| 📝 `RetailAnalysis.sql` | SQL script with all 7 required queries |
 | 📄 `Sale_uplift.pbix` | Completed Power BI dashboard |
 | 📁 `SQL output tables/` | Exported CSV results from each SQL query |
 | 📁 `Dashboard Preview/` | Screenshots of all dashboard pages |
