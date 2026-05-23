@@ -167,7 +167,7 @@ ORDER BY PurchaseCount DESC;
 
 The landing page presents the project title with a clean, branded layout and navigation to the main dashboard views.
 
-![Home Page](Dashboard%20Preview/Home_page.png)
+![Home Page]([Dashboard%20Preview/Home_page.png](https://github.com/shrutiii87/Business-Case-Study/blob/main/Sales%20Uplift_strategy%20insights%20from%20multi%20region%20retail%20data/Dashboard%20Preview/Home%20page.png))
 
 ---
 
@@ -175,7 +175,7 @@ The landing page presents the project title with a clean, branded layout and nav
 
 The primary dashboard view with KPI cards, monthly trends, regional breakdown, and sales channel distribution.
 
-![Main Overview](Dashboard%20Preview/Main_Overview.png)
+![Main Overview]([Dashboard%20Preview/Main_Overview.png](https://github.com/shrutiii87/Business-Case-Study/blob/main/Sales%20Uplift_strategy%20insights%20from%20multi%20region%20retail%20data/Dashboard%20Preview/Main%20Overview.png))
 
 **KPI Cards:**
 - **Total Sales** → `6.74M`
@@ -205,7 +205,7 @@ The primary dashboard view with KPI cards, monthly trends, regional breakdown, a
 
 A deep-dive page focused on customer value, product performance, and category trends.
 
-![Growth Focus Insights](Dashboard%20Preview/Growth_focus_insights.png)
+![Growth Focus Insights]([Dashboard%20Preview/Growth_focus_insights.png](https://github.com/shrutiii87/Business-Case-Study/blob/main/Sales%20Uplift_strategy%20insights%20from%20multi%20region%20retail%20data/Dashboard%20Preview/Growth%20focus%20insights.png))
 
 **Most Valuable Customers (Horizontal Bar Chart):**
 - Y-axis: `CustomerID`
@@ -229,7 +229,7 @@ A deep-dive page focused on customer value, product performance, and category tr
 
 A storytelling page that directly answers the manager's strategic questions using insight cards.
 
-![Report Answers](Dashboard%20Preview/Report_Page.png)
+![Report Answers]([Dashboard%20Preview/Report_Page.png](https://github.com/shrutiii87/Business-Case-Study/blob/main/Sales%20Uplift_strategy%20insights%20from%20multi%20region%20retail%20data/Dashboard%20Preview/Report%20Page.png))
 
 | Business Question | Key Insight |
 |-------------------|-------------|
