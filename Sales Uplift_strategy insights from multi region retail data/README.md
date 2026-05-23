@@ -290,17 +290,6 @@ A storytelling page that directly answers the manager's strategic questions usin
 
 ---
 
-## 💡 Key Business Insights
-
-- 🏆 **C8600** is the single most valuable customer with **₹67,264** in total purchases
-- 📱 **Smartphones & Headphones** are the top revenue-driving products — prioritize for Q3 promotions
-- 🌐 **Online channel outperforms Offline** overall, especially in high-value Electronics & Beauty categories
-- 🗺️ **South & East regions** are high performers; **North & West** need targeted marketing for premium products
-- 📉 **All categories dip in Q2–Q3** — a seasonal pattern worth addressing with mid-year campaigns
-- ⚖️ **Equal regional sales distribution (25% each)** suggests consistent reach but room to grow in underperforming categories per region
-
----
-
 ## 📤 Submission Contents
 
 | File | Description |
