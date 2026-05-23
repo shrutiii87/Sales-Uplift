@@ -21,7 +21,7 @@ the goal was to analyze a large transaction dataset using SQL and Power BI. The 
 | File / Folder | Description |
 |---------------|-------------|
 | 📄 `Sale_uplift.pbix` | Main Power BI dashboard file |
-| 📝 `Queries.txt` | All SQL queries used for data analysis |
+| 📝 `RetailAnalysis.sql` | All SQL queries used for data analysis |
 | 📁 `SQL output tables/` | Exported results from each SQL query |
 | 📁 `file used/` | Source CSV dataset (`RetailTransactions.csv`) |
 | 📁 `Dashboard Preview/` | Screenshots of all dashboard pages |
