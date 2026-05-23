@@ -10,21 +10,9 @@ As a Business Analyst at a multi-region retail company, the goal was to analyze 
 
 ---
 
-## 🧑‍🎓 Exam Details
-
-| Field | Details |
-|-------|---------|
-| 📝 **Exam Title** | Sales Uplift: Strategy Insights from Multi-Region Retail Data |
-| 🎓 **Exam Type** | Standalone Case-Based Practical |
-| ⏳ **Duration** | 3 Hours |
-| 📦 **Dataset** | `RetailTransactions.csv` (AI-generated) |
-| 🔧 **Tools Used** | MySQL · Power BI Desktop |
-
----
-
 ## 🎬 Project Demo
 
-[![Watch the Project Walkthrough](https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge&logo=google-drive)]
+![Watch the Project Walkthrough](https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge&logo=google-drive)]
 
 ---
 
