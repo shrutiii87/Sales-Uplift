@@ -14,6 +14,8 @@ the goal was to analyze a large transaction dataset using SQL and Power BI. The 
 
 [![Watch the Project Walkthrough](https://img.shields.io/badge/▶️%20Watch%20Demo-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1Qo1jqOD5JDGqq9ahePXcBfXalsVuNupb/view?usp=sharing)
 
+Click on the Badge to see the video....
+
 ---
 
 ## 📁 Project Files
