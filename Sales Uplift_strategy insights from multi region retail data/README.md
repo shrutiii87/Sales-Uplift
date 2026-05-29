@@ -9,12 +9,6 @@ An end-to-end **Business Analytics Project** combining SQL data analysis with an
 the goal was to analyze a large transaction dataset using SQL and Power BI. The dashboard empowers managers to explore sales trends, customer behavior, regional performance, and product strategy — all from a single interactive interface.
 
 ---
-<img 
-  width="800" 
-  height="420" 
-  alt="ezgif-701b5c6b27ac58bd" 
-  src="https://github.com/user-attachments/assets/4a81ae22-cff7-4766-a7f2-f83065dc7116" 
-/>
 
 ## 🎬 Project Demo
 
